@@ -4,3 +4,11 @@ This repository demonstrates One-shot, Few-shot, and Zero-shot prompting with th
 1. Install dependencies:
    ```bash
    pip install openai
+
+2. Set your OpenRouter API key
+Quick (replace in the script)
+- Open any script and replace the placeholder API key string with your own OpenRouter key.
+- Get a key from https://openrouter.ai/.
+Example:
+```python
+openai.api_key = "sk-or-v1-YOUR_REAL_KEY_HERE"
