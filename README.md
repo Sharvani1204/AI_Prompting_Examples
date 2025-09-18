@@ -9,6 +9,3 @@ This repository demonstrates One-shot, Few-shot, and Zero-shot prompting with th
 Quick (replace in the script)
 - Open any script and replace the placeholder API key string with your own OpenRouter key.
 - Get a key from https://openrouter.ai/.
-Example:
-```python
-openai.api_key = "sk-or-v1-YOUR_REAL_KEY_HERE"
